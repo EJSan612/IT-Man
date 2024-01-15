@@ -1,1 +1,5 @@
+Executable File is compressed into a .rar file including its resources to run.
+
+Video Demonstration is available via G-Drive and Mediafire downloadable links. GitHub does not cater >25 MB file.
+
 Some files are compressed into .rar files in order to save space.
