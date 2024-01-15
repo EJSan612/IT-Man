@@ -1,0 +1,1 @@
+Some files are compressed into .rar files in order to save space.
